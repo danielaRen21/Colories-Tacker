@@ -21,7 +21,7 @@ Aplicación web para el registro y control de calorías consumidas mediante alim
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/danielaRen21/Colories-Tacker.git
 ```
 
 2. Instala las dependencias:
